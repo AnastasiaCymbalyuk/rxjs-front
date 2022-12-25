@@ -1,0 +1,1 @@
+[![Сборка status](https://ci.appveyor.com/api/projects/status/alr0n7lx7c8sk3lm?svg=true)](https://ci.appveyor.com/project/AnastasiaCymbalyuk77753/rxjs-front)
